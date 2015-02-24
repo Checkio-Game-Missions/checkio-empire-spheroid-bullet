@@ -1,3 +1,3 @@
-We are going to experiment with various bullet forms.
-As basis we will use [spheroid](http://en.wikipedia.org/wiki/Spheroid).
-But we need preliminary calculations.
+We are going to experiment with various bullet shapes and designs.
+As basis for our designs, we will use the [spheroid](http://en.wikipedia.org/wiki/Spheroid).
+Let's make the preliminary calculations.
