@@ -1,6 +1,6 @@
-We are going to experiment with various bullet forms.
-As basis we will use [spheroid](http://en.wikipedia.org/wiki/Spheroid).
-But we need preliminary calculations.
+We are going to experiment with various bullet shapes and designs.
+As basis for our designs, we will use the [spheroid](http://en.wikipedia.org/wiki/Spheroid).
+Let's make the preliminary calculations.
 
 We know the height and the width (in centimeters) for this spheroid.
 You should create a function to calculate the volume (cubic inches) and the surface area (square centimeters).
@@ -23,15 +23,13 @@ spheroid(2, 4) == [16.76, 34.69]
 
 **How it is used:**
 
-This is a simple math task,
-but we want to introduce you to the splendid shape -- spheroid (in case you hadn't heard of it yet).</p>
+This is a simple math task, but we want to introduce you to the ubiquitous spheroid.
 
-The prolate spheroid is the shape of the ball in several sports,
-such as in rugby and Australian football. In American football, a more pointed prolate spheroid is used.
+For example, the prolate spheroid is the shape of the ball in several sports such as in rugby and Australian football. In American football, a more pointed prolate spheroid is used.
 Several moons of the Solar system approximate prolate spheroids in shape, though they are actually scalene.
-Examples are Mimas, Enceladus, and Tethys which orbit Saturn and Miranda which orbits Uranus.
+Examples of these are Mimas, Enceladus, and Tethys which orbit Saturn and Miranda which orbits Uranus.
 
-The true shape of the Earth is called an Oblate Spheroid, though it is only very slightly oblate.
+Even the true shape of the Earth is an Oblate Spheroid, though it is only very slightly oblate.
 The diameter from the North Pole to the South Pole (the shortest diameter) is approximately 12,714 km.
 The equatorial diameter (the longest diameter) is approximately 12,756 km.
 This is not a big difference, but it does mean the Earth is not quite a sphere.
