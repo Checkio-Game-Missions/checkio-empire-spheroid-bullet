@@ -1,5 +1,5 @@
 TESTS = {
-    "Level_1": [
+    "Rank_1": [
         {"input": [4, 2], "answer": [8.38, 21.48], "explanation": [8.38, 21.48]},
         {"input": [2, 2], "answer": [4.19, 12.57], "explanation": [4.19, 12.57]},
         {"input": [2, 4], "answer": [16.76, 34.69], "explanation": [16.76, 34.69]},
