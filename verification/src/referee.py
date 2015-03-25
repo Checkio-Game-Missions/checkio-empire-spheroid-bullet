@@ -10,9 +10,9 @@ class Referee(RefereeCodeGolf):
     TESTS = TESTS
     BASE_POINTS = 10
     DEFAULT_MAX_CODE_LENGTH = 100
-    EXECUTABLE_PATH = settings.EXECUTABLE_PATH
-    CURRENT_ENV = settings_env.CURRENT_ENV
-    FUNCTION_NAME = "spheroid"
+    ENVIRONMENTS = settings_env.ENVIRONMENTS
+
+    DEFAULT_FUNCTION_NAME = "spheroid"
     ENV_COVERCODE = {
         "python_2": covercodes.py_unwrap_args,
         "python_3": covercodes.py_unwrap_args,
