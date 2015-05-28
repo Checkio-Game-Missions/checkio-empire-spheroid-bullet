@@ -1,5 +1,7 @@
 We know the height and the width (in centimeters) for this spheroid.
-You should create a function to calculate the volume (cubic inches) and the surface area (square centimeters).
+You should create a function to calculate the volume (cubic centimeters) and
+the surface area (square centimeters).
+**The results should be rounded to two decimals.**
 
 ![Spheroid](spheroid.svg)
 
