@@ -9,7 +9,7 @@ from tests import TESTS
 class Referee(RefereeCodeGolf):
     TESTS = TESTS
     BASE_POINTS = 10
-    DEFAULT_MAX_CODE_LENGTH = 200
+    DEFAULT_MAX_CODE_LENGTH = 150
     ENVIRONMENTS = settings_env.ENVIRONMENTS
 
     DEFAULT_FUNCTION_NAME = "spheroid"
