@@ -3,8 +3,6 @@ You should create a function to calculate the volume (cubic centimeters) and
 the surface area (square centimeters).
 **The results should be rounded to two decimals.**
 
-![Spheroid](spheroid.svg)
-
 In this mission the main goal to make your code as short as possible.
 The shorter your code, the more points you earn.
 Your score for this mission is dynamic and directly related to the length of your code.
