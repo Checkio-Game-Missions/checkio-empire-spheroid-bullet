@@ -10,4 +10,5 @@ function golf(height, width){
 //    assert.deepEqual(golf(4, 2), [8.38, 21.48], "1st example");
 //    assert.deepEqual(golf(2, 2), [4.19, 12.57], "2nd example");
 //    assert.deepEqual(golf(2, 4), [16.76, 34.69], "3rd example");
+//    console.log("All set? Click 'Check' to review your code and earn rewards!");
 //}
